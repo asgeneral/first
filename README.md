@@ -1,2 +1,1 @@
-# first
-My first repository
+Hello, this repository was created that i study angular & git.
